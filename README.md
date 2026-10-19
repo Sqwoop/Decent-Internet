@@ -55,6 +55,9 @@ Decent-Internet is in early development. We are establishing its technical archi
 
 A working network has not yet been released.
 
+For current development progress, see our
+[Project Status](PROJECT_STATUS.md).
+
 ---
 
 ### The Internet Belongs to Its People
